@@ -23,7 +23,7 @@ SpaceX Website Clone created with ReactJs,AOS and CSS 3
       <li>Responsive with all devices</li>
   </ul>
 
-## 👽 Technologyies Used
+## 👽 Tech Stack
   
   <ul>
       <li>ReactJS</li>
